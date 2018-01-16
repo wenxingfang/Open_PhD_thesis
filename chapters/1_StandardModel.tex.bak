@@ -1,0 +1,83 @@
+\chapter{The theory}\label{chap:SM_BSM}
+\textit{This chapter introduces the standard model (SM) of particle physics which describes the family of elementary particles and their interactions.}
+\section{The standard model of particle physics}\label{sec:SM}
+\subsection{The elementary particles}\label{subsec:elem_particle}
+It has been long time for people try to understand what is the basic object which constitutes our world. From Demokritos (~470-380 BC) who thought matter was built of discrete building blocks to John Dalton (1766-1844) who came up with the matter was made of atoms. In the early 1900's J.J. Thomson proposed a so called "plum pudding model" which assume the atom was a uniform sphere of positively charged matter in which electrons were embedded. However in 1910 Ernest Rutherford and his colleagues performed $\alpha$ rays scattering experiments and found that the whole mass and all positive charge of the atom were concentrated in a minute space at the centre which is called "nucleus". After the discovery of the neutron in 1932 by James Chadwick, models for a nucleus composed of protons and neutrons were quickly developed by Dmitri Ivanenko and Werner Heisenberg. Furthermore in 1968 the deep inelastic scattering experiments at the Stanford Linear Accelerator Center provided the first convincing evidence of the reality of quarks in the proton or neutron. In the standard model (SM) the quarks are the elementary particles and there are six different kinds of flavors for the quarks called up (u), down (d), charm (c), strange (s), top (t) and bottom (b), the mass, charge and spin of the quarks are shown in table \ref{tab:quarks}, here the $e$ means one electron's charge which equal $\mathrm{1.6\times10^{-19}C}$. The quarks are categorized in there generations which will be discussed in section \ref{subsubsec:strong_interaction}. Besides the quarks have another property which is called the "color charge", a quark can be "Red" or "Blue" or "Green". The reason for there are only three kinds of color charges will be discussed in section \ref{subsubsec:strong_interaction}. Moreover all the quarks have its anti-quark which has opposite quantum number with regard to quark including flavor, charge and color charge quantum number. Therefore there are $\mathrm{6~(flavor)~\times~3~(color)~\times~2(anti-quark)~=~36}$ kinds of quarks in the SM and all the hadrons are composed by quarks or anti-quarks, for meson it is composed by $\mathrm{q\bar{q}}$ and for baryon it is composed by $\mathrm{qqq}$ or $\mathrm{\bar{q}\bar{q}\bar{q}}$.
+ \begin{table}[!hbpt]
+ \begin{center}
+ \begin{tabular}{|c|c|c|c|c|}
+ \hline
+ Generation           & Quark         & Charge      &Spin      & Mass \\ \hline
+ First                & up quark (u)  & 2/3 $e$     &1/2       & $2.3^{+0.7}_{-0.5}$ MeV \\
+                      & down quark (d)& -1/3 $e$    &1/2       & $4.8^{+0.5}_{-0.3}$ MeV \\ \hline
+ Second               & charm quark (c)& 2/3 $e$    &1/2       & $1.275 \pm 0.025$ GeV \\
+                      & strange quark (s)& -1/3 $e$ &1/2       & $95\pm 5$ MeV \\  \hline
+ Third                & top quark (t)    & 2/3 $e$  &1/2       & $173.21\pm 0.51 \pm 0.71$ GeV \\
+                      & bottom quark (b) & -1/3 $e$ &1/2       & $4.66 \pm 0.03$ GeV \\ \hline
+ \end{tabular}
+ \end{center}
+ \caption{Quarks and their properties \cite{Olive:2016xmw}.\label{tab:quarks}}
+ \end{table}
+
+Similar with quark family there are a lepton family, the most common one is electron which exists as a cloud out of nucleus to form an atom. All the leptons are shown in table \ref{tab:leptons} with their charge, spin and mass, they are electron ($\mathrm{e}$), electron neutrino ($\mathrm{\nu_e}$), muon ($\mathrm{\mu}$), muon neutrino ($\mathrm{\nu_{\mu}}$), tau ($\mathrm{\tau}$) and tau neutrino ($\mathrm{\nu_{\tau}}$). The leptons are also categorized into three generations and each generation has its own lepton flavor. First generation are electron flavor leptons, second generation are muon flavor leptons and third generation are tau flavor leptons. The reason for neutrinos have non-zero mass is because of the observation of neutrino's oscillations otherwise in SM the mass of neutrinos are zero. Similar with the quarks, all the leptons also have theirs anti-particle partners which own the opposite quantum number. While unlike the quarks, the leptons do not have color charge property. Therefore there are $6~\times~2~=~12$ kinds of leptons in SM.
+
+Now the all the spin 1/2 (fermion) elementary particles in SM are introudced, in section \ref{subsec:fund_interaction} the interactions between these particles and the mediators will be discussed.
+
+\begin{table}[!hbpt]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Generation & Lepton                               & Charge &Spin & Mass \\ \hline
+First      & electron ($\mathrm{e}$)              & -$e$   &1/2  & 511 MeV\\
+           & electron neutrino ($\mathrm{\nu_e}$) & 0      &1/2  & $<$ 2 eV\\ \hline
+Second     & muon ($\mathrm{\mu}$)                & -$e$   &1/2  & 105.67 MeV\\
+           & muon neutrino ($\mathrm{\nu_{\mu}}$) & 0      &1/2  & $<$ 2 eV\\ \hline
+Third      & tau ($\mathrm{\tau}$)                & -$e$   &1/2  & 1776.99 MeV\\
+           & tau neutrino ($\mathrm{\nu_{\tau}}$) & 0      &1/2  & $<$ 2 eV\\ \hline
+ \end{tabular}
+ \end{center}
+ \caption{Properties of the leptons in the three generations. Neutrinos are assumed to have zero mass in SM but by the observation of neutrino's oscillations the upper limits on their mass are set\cite{Olive:2016xmw}.\label{tab:leptons}}
+ \end{table}
+
+\subsection{The fundamental interactions}\label{subsec:fund_interaction}
+It is well known there are four characteristic interactions among fundamental particles.
+\begin{enumerate}
+\item Electromagnetic interaction : it is mediated by massless photon ($\mathrm{m_{\gamma}~=~0}$) with spin = 1 among charged particles. The theory to describe the electromagnetic interaction is quantum electrodynamics (QED) which is well understood. Because of the massless of photon the interacting range is infinite. QED is renormalizable for example the divergence from vacuum polarization and higher order loop contributions can be absorbed in to the physical charge of particle. The coupling constant is $\mathrm{\alpha~=~\frac{e^{2}}{4\pi\varepsilon_{0}\hbar c}} ~\simeq ~ \frac{1}{137}$ which characterizes the strength of the coupling of charged particle with the electromagnetic field. Because of smallness of $\mathrm{\alpha}$ the perturbation works well for QED.
+\item Weak interaction : it is mediated by massive weak bosons ($\mathrm{m_{W^{\pm}}~\cong~80.4~GeV/c^{2},}$ \\ $\mathrm{m_{Z}~\cong~91.2~GeV/c^{2}}$) with spin = 1 among quarks and leptons.
+\item Strong interaction : it is mediated by massless gluons ($\mathrm{m_{g}~=~0}$) with spin = 1 among the quarks. 
+\item Gravitational interaction : it is mediated by massless gravitons ($\mathrm{m_{G}~=~0}$) with spin = 2 among all massive particles.
+\end{enumerate}
+
+ \begin{table}[!hbpt]
+ \begin{center}
+ \begin{tabular}{c|c|c|c}
+ \hline
+ Interaction & Range & Relative strength & Mediators \\
+ \hline
+ Strong & $10^{-15}$ m & 1 &  8 gluons ($g$) \\
+ \hline
+ Electromagnetic & $\infty$ & $10^{-3}$ & photon ($\gamma$) \\
+ \hline
+ Weak &  $10^{-18}$ m & $10^{-14}$ & $\mathrm{W^+}$, $\mathrm{W^-}$, $\mathrm{Z}$ \\
+ \hline
+ Gravitational & $\infty$ & $10^{-43}$ & graviton (G) ? \\
+ \hline
+  \end{tabular}
+ \end{center}
+ \caption{Range, relative strength with respect to the strong force, and mediators of the four fundamental interactions. The gravitational force is not included in the SM, and gravitons are hypothetical particles.
+ \label{tab:interactions}
+}
+ \end{table}
+
+
+\subsubsection{The electromagnetic interactions}\label{subsubsec:elemag_interaction}
+\subsubsection{The weak interactions}\label{subsubsec:weak_interaction}
+\subsubsection{The strong interactions}\label{subsubsec:strong_interaction}
+
+\subsection{The symmetries and the gauge theory}\label{subsec:symmetry}
+\subsection{The effective fermi theory}\label{subsec:EFT}
+\subsection{The Drell-Yan process}\label{subsec:DY}
+\subsection{The shortcomings of standard model of particle physics}\label{subsec:shortcoming}
+\section{The beyond standard model of particle physics}\label{sec:BSM}
+\subsection{The unified ground theory}\label{subsec:GUT}
+\subsection{The super symmetry theory}\label{subsec:SUSY}

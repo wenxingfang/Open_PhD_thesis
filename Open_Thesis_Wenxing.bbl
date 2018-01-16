@@ -1,0 +1,43 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{Olive:2016xmw}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Group}{G.}%
+     {Particle~Data}{P.~D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GPD1}
+  \strng{fullhash}{GPD1}
+  \verb{doi}
+  \verb 10.1088/1674-1137/40/10/100001
+  \endverb
+  \field{number}{10}
+  \field{pages}{100001}
+  \field{title}{{Review of Particle Physics}}
+  \field{volume}{C40}
+  \field{journaltitle}{Chin. Phys.}
+  \field{year}{2016}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

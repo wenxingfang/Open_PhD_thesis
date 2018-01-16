@@ -1,0 +1,24 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Open_Thesis_Wenxing.aux
+The style file: biblatex.bst
+Database file #1: Open_Thesis_Wenxing-blx.bib
+Database file #2: database.bib
+I was expecting a `,' or a `}'---line 888 of file database.bib
+ :       note           = ""
+ :                          %[Zh. Eksp. Teor. Fiz.73,1216(1977)]",
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 910 of file database.bib
+ :       note           = ""
+ :                          %[Yad. Fiz.15,781(1972)]",
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1020 of file database.bib
+ : 
+ : url = "http://www.sciencedirect.com/science/article/pii/S0168900202009166",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1100 of file database.bib
+ :       
+ :       %url           = "https://cds.cern.ch/record/144406",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 1.7
+(There were 4 error messages)
