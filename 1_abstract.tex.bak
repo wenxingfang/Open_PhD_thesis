@@ -44,41 +44,7 @@ The background estimation is completely data-driven and achieved via a parametri
 After the inspection of the diphoton invariant mass, no excess over the standard model expectation is observed, and 95\% confidence
 level upper limits are set on the production cross-section times branching ratio, using the data collected in the first half of 2016 (12.9 \fbinv). Results have also been combined with those obtained with the same analysis techniques but with different datasets collected in 2012 and 2015 by the CMS experiment.
 
-\newpage
-\selectlanguage{frenchb}
-\section*{Résumé}
-Cette thèse décrit les recherches de nouvelles résonances massives se décomposant en une paire électron-positron ou une paire de photons dans l'état final.
-Différents ensembles de données, provenant des collisions proton-proton à une énergie dans le centre de masse $\sqrt{s} = 13$ TeV
-au Large Hadron Collider (LHC) et enregistrés par l'expérience CMS en 2015 et 2016, ont été analysés.
-Après un chapitre consacré à la description du modèle standard de la physique des particules élémentaires,
-les motivations pour postuler de nouvelles théories qui dépassent le modèle standard sont introduites
-et certaines classes de modèles sont décrites. Les techniques utilisées pour reconstituer les particules
-produites dans les collisions sont discutées ensuite, avec un accent particulier sur la reconstruction des électrons/positrons et des photons. Deux analyses séparées sont présentées.
-\\La première est la recherche d'une nouvelle résonance massive se désintégrant en une paire électron-positron dans l'état final. De telles résonances
-sont prédites par une variété de modèles tels que les théories de grande unification ou les théories introduisant des
-dimensions supplémentaires. Leur signature apparaîtrait comme un excès localisé d'événements dans le spectre de masse invariante des paires électron-positron.
-La sélection des événements est optimisée pour être très efficace pour les électrons/positron à haute énergie et
-éviter de perdre des événements de signal potentiels.
-L'analyse repose sur des échantillons simulés pour l'estimation de la principale source de bruit de fond, qui est le processus Drell-Yan du modèle standard.
-Des approches basées sur les données sont poursuivies pour la validation de la simulation du bruit de fond avec des électrons/positrons produits dans l'état final et pour la détermination du bruit de fond provenant de processus de \textit{quantum chromodynamics}.
-Après avoir inspecté la distribution de masse invariante des paires électron-positron, aucun excès
-sur la prédiction du modèle standard n'est observée, et des limites supérieures  à 95\% de niveau de confiance sont placées sur le
-rapport entre la section efficace de production multipliée par le rapport de branchement d'une nouvelle résonance et cette même quantité au pic du boson Z, avec les données
-prises en 2016 (35.9 \fbinv).
-\\La deuxième analyse présentée dans cette thèse est la recherche d'une nouvelle résonance lourde se désintégrant en une paire de photons dans l'état final,
-dont l'existence est prédite par des modèles avec des secteurs scalaires non minimaux ou par des théories
-qui postulent l'existence de dimensions spatiales supplémentaires.
-Leur signature apparaîtrait comme un excès localisé d'événements dans le spectre de masse invariante des paires de photons.
-La sélection des événements a été optimisée afin d'être très efficace pour les photons à haute énergie et d'éviter
-la perte de signaux potentiels.
-L'estimation du bruit de fond est entièrement basée sur les données et réalisée avec une paramétrisation du spectre de masse invariante observé.
-Après l'inspection de la masse invariante des paires de photons, aucun excès par rapport à la prédiction du modèle standard n'est observé, et des limites supérieures à 95\% de niveau de confiance sont placées sur la section efficace de production multipliée par le rapport de branchement d'une nouvelle résonance, avec les données
-prises jusqu'à Juillet 2016 (12.9 \fbinv).
-Les résultats ont également été combinés avec ceux obtenus par les mêmes techniques d'analyse, mais avec des ensembles de données différents enregistrées par l'expérience CMS en 2012 et 2015.
+Key Words:
 
 \newpage
-\begin{CJK}{GBK}{song}
-\section*{??}
-
-???
-\end{CJK}
+\newpage
